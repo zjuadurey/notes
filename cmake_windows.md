@@ -1,4 +1,10 @@
 cmake -G "MinGW Makefiles" ../Step1
+
+Note: Building PyTorch with mingw is not officially supported:
+https://stackoverflow.com/questions/69517121/cause-of-cmake-build-error-finding-g-exe-files-using-windows-and-mingw-libtor
+https://github.com/pytorch/pytorch/issues/24460
+And using 
+
 https://stackoverflow.com/questions/70524164/cmake-c-compiler-not-set-after-enablelanguage
 
 cmake tutorials
