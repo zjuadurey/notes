@@ -1,6 +1,7 @@
 # configure wsl2 to access the proxy of the windows host
 
 <https://zhuanlan.zhihu.com/p/153124468>
+
 - 方法一
 
 打开clash中的局域网连接，设置端口（例如7890）
