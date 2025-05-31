@@ -11,3 +11,9 @@
 ## error correction code set
 
 <https://errorcorrectionzoo.org/>
+
+## papers
+
+<https://github.com/quantumlib/Stim/blob/main/doc/circuit_data_references.md>: A list of papers known to have included downloadable Stim circuits is available from here.
+
+source of upper link: <https://github.com/quantumlib/Stim/blob/main/doc/getting_started.ipynb>
