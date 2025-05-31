@@ -1,6 +1,7 @@
 # vpn
 
 ## test the ip
+
 ``
 curl cip.cc
 ``
@@ -12,10 +13,12 @@ alias unsetproxy="unset ALL_PROXY"
 alias ip="curl http://ip-api.com/json/?lang=zh-CN"
 
 ## auto open ssr-command-client
+
 unsetproxy
 /usr/local/bin/shadowsocksr-cli -S
 setproxy
 /usr/local/bin/shadowsocksr-cli -s 1
 
 ## reset bash
+
 source ~/.bashrc
