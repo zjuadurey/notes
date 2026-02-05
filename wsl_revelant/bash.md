@@ -5,6 +5,9 @@
 ``
 curl cip.cc
 ``
+``
+curl -s https://ipinfo.io | head
+``
 
 ## settings for ssr-command-client
 
