@@ -1,6 +1,9 @@
 .obsidian/
+.codex/
 .DS_Store
 Thumbs.db
 *.aux
 *.log
 *.out
+*.swp
+*~
