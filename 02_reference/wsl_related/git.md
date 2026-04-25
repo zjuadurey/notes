@@ -5,4 +5,4 @@ https://docs.github.com/en/migrations/importing-source-code/using-the-command-li
 
 ##
 git workflow Personal access tokens:
-feishu
+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
